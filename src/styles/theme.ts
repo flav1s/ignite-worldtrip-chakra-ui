@@ -1,4 +1,5 @@
 import { extendTheme } from "@chakra-ui/react";
+
 import "swiper/swiper-bundle.css";
 
 export const theme = extendTheme({

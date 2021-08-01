@@ -1,0 +1,62 @@
+{
+  "continents": [
+    {
+      "slug": "europa",
+      "name": "Europa",
+      "description": "O continente mais antigo",
+      "full_description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "numberOfCountries": 50,
+      "numberOfLanguages": 24,
+      "url": "/Europe.jpeg",
+      "countries": [
+        {
+          "image": "Europe.jpeg",
+          "name": "Inglaterra",
+          "capital": "Londres",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197485.png"
+        },
+        {
+          "image": "Europe.jpeg",
+          "name": "Países Baixos",
+          "capital": "Amsterdã",
+          "flag": "https://image.flaticon.com/icons/png/512/323/323275.png"
+        },
+        {
+          "image": "Europe.jpeg",
+          "name": "França",
+          "capital": "París",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197560.png"
+        }
+      ]
+    },
+    {
+      "slug": "america",
+      "name": "América",
+      "description": "Neque porro quisquam est qui dolorem.",
+      "full_description": "Neque porro quisquam est qui dolorem. Neque porro quisquam est qui dolorem. Neque porro quisquam est qui dolorem. Neque porro quisquam est qui dolorem. Neque porro quisquam est qui dolorem. Neque porro quisquam est qui dolorem.",
+      "numberOfCountries": 50,
+      "numberOfLanguages": 24,
+      "url": "/America.jpeg",
+      "countries": [
+        {
+          "image": "America.jpeg",
+          "name": "Estados Unidos",
+          "capital": "Washington DC",
+          "flag": "https://image.flaticon.com/icons/png/512/323/323310.png"
+        },
+        {
+          "image": "America.jpeg",
+          "name": "Rio de Janeiro",
+          "capital": "Rio de Janeiro",
+          "flag": "https://img-premium.flaticon.com/png/512/186/premium/186203.png?token=exp=1627855387~hmac=40214a16f39231957a7c2078096c818a"
+        },
+        {
+          "image": "America.jpeg",
+          "name": "México",
+          "capital": "Cidade do México",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197397.png"
+        }
+      ]
+    }
+  ]
+}

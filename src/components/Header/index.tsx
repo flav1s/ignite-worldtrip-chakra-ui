@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Flex, Img } from "@chakra-ui/react";
+import { Flex, Img, Link } from "@chakra-ui/react";
 
 const Header = () => {
   return (
@@ -14,7 +14,9 @@ const Header = () => {
       py={27}
       mx="auto"
     >
-      <Img h={45} w={185} src="/Logo.svg" />
+      <Link href="/">
+        <Img h={45} w={185} src="/Logo.svg" />
+      </Link>
     </Flex>
   );
 };
