@@ -1,5 +1,5 @@
 import React from "react";
-import { Flex, HStack, Img } from "@chakra-ui/react";
+import { HStack, Img } from "@chakra-ui/react";
 
 const TravelTypes = () => {
   return (

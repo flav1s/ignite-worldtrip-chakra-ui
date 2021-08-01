@@ -4,6 +4,7 @@ import { Box, Divider, Flex, Heading } from "@chakra-ui/react";
 import Header from "../components/Header";
 import Banner from "../components/Banner";
 import TravelTypes from "../components/TravelTypes";
+import Carousel from "../components/Carousel";
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
           Então escolha seu continente
         </Heading>
       </Flex>
+      <Carousel />
     </Box>
   );
 }
